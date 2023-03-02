@@ -102,3 +102,41 @@ let lastElement = arr[arr.count - 1]
  */
 
 // optional unwrapped in 9
+
+/*
+ 11) What are closures?
+ 
+ Closures are anonymous functions that take in a function as an argument or returns a function
+ wrong
+ 
+ Closures are anonymous functions that captures references to values in their surrounding context
+ */
+
+/*
+ 12) What is GCD?
+ Grand Central Dispatch - it is the library ios uses to handle concurrency
+ 
+ 13) Name the type of loops
+ for - in loop, repeat while loop, while loop
+ 
+ 14) If using a Command-line macOS application what's the function used for taking user input ?
+ readLine()
+ 
+ 15) What is the restriction on a dictionary?
+ The keys must conform to hashable
+ 
+ 16) What is object oriented programming
+ Object Oriented programming is a paradigm which represents objects, and encapsulates it's properties and functions
+ 
+ 17) Name three principles of oop?
+ Inheritance, polymorphism, encapsulation
+ 
+ 18) What is protocol oriented programming
+ is a paradigm used to describe the blueprint of properties and functions an conforming object needs to adhere to
+ 
+ 19) What is dependcy injection
+ Dependency injection is a method to pass all required data and properties to an object. Better done with an initializer for encapsulation
+ 20) xctest
+ */
+
+

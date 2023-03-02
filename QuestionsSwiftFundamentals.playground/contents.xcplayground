@@ -3,5 +3,6 @@
     <pages>
         <page name='iOSQuestions'/>
         <page name='SwiftQuestions'/>
+        <page name='GeneralSwiftPractice'/>
     </pages>
 </playground>
